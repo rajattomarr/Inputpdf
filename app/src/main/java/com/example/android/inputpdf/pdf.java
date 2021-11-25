@@ -29,13 +29,5 @@ public class pdf extends AppCompatActivity {
                 .password(null)
                 .scrollHandle(null)
                 .load();
-
-
-
-
-
-
-
-
     }
 }
